@@ -24,7 +24,7 @@
 - 🤝 Open to **PROJECTS / COLLABORATIONS**
 - 📂 All my projects are available on **GitHub**
 - 📄 Resume: [View Resume](PASTE_YOUR_RESUME_LINK)
-- 📧 Reach me at **YOUR EMAIL**
+- 📧 Reach me at **adithyakolukulapally@gmail.com**
 - ⚡ Fun fact: 😄 I'm the kind of person who laughs when a bug turns out to be a missing semicolon after hours of debugging. I love building cool things with                     code, learning every day, and simply being myself.
 
 </td>
